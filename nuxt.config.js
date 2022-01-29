@@ -106,7 +106,7 @@ export default {
     modules: ['@nuxtjs/axios'],
 
     router: {
-        base: '/vue/riode/demo-1/'
+        base: '/'
     },
 
     build: {
