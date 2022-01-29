@@ -110,7 +110,6 @@ export default {
     },
 
     build: {
-        publicPath: "http://192.168.1.25/vue/riode/demo-1/",
         extend(config, { loaders }) {
             loaders.scss.additionalData = '@use "sass:math";';
         }
