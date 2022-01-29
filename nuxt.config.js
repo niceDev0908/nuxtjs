@@ -101,6 +101,8 @@ export default {
         'cookie-universal-nuxt'
     ],
 
+    buildDir: 'dist',
+
     modules: ['@nuxtjs/axios'],
 
     router: {
