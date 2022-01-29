@@ -89,11 +89,11 @@ export default {
     ],
 
     plugins: [
-        { src: '~/plugins', ssr: false },
-        { src: '~/plugins/directives/parallax.js', ssr: false },
-        { src: '~/plugins/localstorage.js', ssr: false },
-        { src: '~/plugins/filters.js', ssr: false },
-        { src: '~/plugins/directives/animate.js', ssr: false }
+        { src: '~/plugins' },
+        { src: '~/plugins/directives/parallax.js' },
+        { src: '~/plugins/localstorage.js' },
+        { src: '~/plugins/filters.js' },
+        { src: '~/plugins/directives/animate.js' }
     ],
 
     buildModules: [
@@ -104,14 +104,14 @@ export default {
     modules: ['@nuxtjs/axios'],
 
     router: {
-        base: '/'
+        base: '/vue/demo-1/'
     },
 
     build: {
         extend(config, { loaders }) {
             loaders.scss.additionalData = '@use "sass:math";';
         },
-        publicPath: "https://nuxtjs-ten-mu.vercel.app/"
+        publicPath: "https://nuxtjs-liart-kappa.vercel.app/"
     },
 
     generate: {
@@ -123,8 +123,7 @@ export default {
     loadingIndicator: false,
 
     pageTransition: 'page',
-
-    target: 'server',
+    target: "server",
 
     server: {
         port: 4002,
