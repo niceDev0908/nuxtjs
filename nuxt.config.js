@@ -113,7 +113,7 @@ export default {
         extend(config, { loaders }) {
             loaders.scss.additionalData = '@use "sass:math";';
         },
-        publicPath: "https://nuxtjs-dx44wp55c-nicedev0908.vercel.app"
+        publicPath: "https://nuxtjs-nu-topaz.vercel.app/"
     },
 
     generate: {
