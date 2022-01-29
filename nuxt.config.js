@@ -106,20 +106,20 @@ export default {
     modules: ['@nuxtjs/axios'],
 
     router: {
-        base: '/vue/demo-1'
+        base: '/'
     },
 
     build: {
         extend(config, { loaders }) {
             loaders.scss.additionalData = '@use "sass:math";';
-        }
+        },
+        publicPath: "https://nuxtjs-dx44wp55c-nicedev0908.vercel.app"
     },
 
-    // generate: {
-    //     dir: "public",
-    //     subFolders: false,
-    //     fallback: '404.html'
-    // },
+    generate: {
+        subFolders: false,
+        fallback: '404.html'
+    },
 
     loading: false,
     loadingIndicator: false,
