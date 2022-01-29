@@ -1,0 +1,394 @@
+[
+  {
+    "name": "elements",
+    "path": "/elements",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\index.vue",
+    "chunkName": "pages/elements/index",
+    "_name": "_03a67a71"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index",
+    "_name": "_4366cbdc"
+  },
+  {
+    "name": "blog-Classic",
+    "path": "/blog/Classic",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\blog\\\\Classic.vue",
+    "chunkName": "pages/blog/Classic",
+    "_name": "_01c2ca86"
+  },
+  {
+    "name": "blog-Listing",
+    "path": "/blog/Listing",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\blog\\\\Listing.vue",
+    "chunkName": "pages/blog/Listing",
+    "_name": "_2d640378"
+  },
+  {
+    "name": "elements-accordions",
+    "path": "/elements/accordions",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\accordions.vue",
+    "chunkName": "pages/elements/accordions",
+    "_name": "_44ffc4c8"
+  },
+  {
+    "name": "elements-alerts",
+    "path": "/elements/alerts",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\alerts.vue",
+    "chunkName": "pages/elements/alerts",
+    "_name": "_8a824af0"
+  },
+  {
+    "name": "elements-blog-posts",
+    "path": "/elements/blog-posts",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\blog-posts.vue",
+    "chunkName": "pages/elements/blog-posts",
+    "_name": "_3fae10d9"
+  },
+  {
+    "name": "elements-buttons",
+    "path": "/elements/buttons",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\buttons.vue",
+    "chunkName": "pages/elements/buttons",
+    "_name": "_3aff3be0"
+  },
+  {
+    "name": "elements-cta",
+    "path": "/elements/cta",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\cta.vue",
+    "chunkName": "pages/elements/cta",
+    "_name": "_60f65a6f"
+  },
+  {
+    "name": "elements-icon-boxes",
+    "path": "/elements/icon-boxes",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\icon-boxes.vue",
+    "chunkName": "pages/elements/icon-boxes",
+    "_name": "_20e6bc54"
+  },
+  {
+    "name": "elements-icons",
+    "path": "/elements/icons",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\icons.vue",
+    "chunkName": "pages/elements/icons",
+    "_name": "_3c197e8e"
+  },
+  {
+    "name": "elements-instagrams",
+    "path": "/elements/instagrams",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\instagrams.vue",
+    "chunkName": "pages/elements/instagrams",
+    "_name": "_57a6651c"
+  },
+  {
+    "name": "elements-product-category",
+    "path": "/elements/product-category",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\product-category.vue",
+    "chunkName": "pages/elements/product-category",
+    "_name": "_41e7024d"
+  },
+  {
+    "name": "elements-products",
+    "path": "/elements/products",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\products.vue",
+    "chunkName": "pages/elements/products",
+    "_name": "_1203eed6"
+  },
+  {
+    "name": "elements-tabs",
+    "path": "/elements/tabs",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\tabs.vue",
+    "chunkName": "pages/elements/tabs",
+    "_name": "_87d9fba2"
+  },
+  {
+    "name": "elements-testimonials",
+    "path": "/elements/testimonials",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\testimonials.vue",
+    "chunkName": "pages/elements/testimonials",
+    "_name": "_7c110a65"
+  },
+  {
+    "name": "elements-titles",
+    "path": "/elements/titles",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\titles.vue",
+    "chunkName": "pages/elements/titles",
+    "_name": "_42cf01e8"
+  },
+  {
+    "name": "elements-typography",
+    "path": "/elements/typography",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\elements\\\\typography.vue",
+    "chunkName": "pages/elements/typography",
+    "_name": "_0cc88ca0"
+  },
+  {
+    "name": "pages-about-us",
+    "path": "/pages/about-us",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/pages/about-us",
+    "_name": "_46134cd0"
+  },
+  {
+    "name": "pages-account",
+    "path": "/pages/account",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\account.vue",
+    "chunkName": "pages/pages/account",
+    "_name": "_0afb8e3a"
+  },
+  {
+    "name": "pages-cart",
+    "path": "/pages/cart",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\cart.vue",
+    "chunkName": "pages/pages/cart",
+    "_name": "_96ce104c"
+  },
+  {
+    "name": "pages-checkout",
+    "path": "/pages/checkout",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\checkout.vue",
+    "chunkName": "pages/pages/checkout",
+    "_name": "_6e866600"
+  },
+  {
+    "name": "pages-coming-soon",
+    "path": "/pages/coming-soon",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\coming-soon.vue",
+    "chunkName": "pages/pages/coming-soon",
+    "_name": "_1cb5df7d"
+  },
+  {
+    "name": "pages-contact-us",
+    "path": "/pages/contact-us",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/pages/contact-us",
+    "_name": "_7b975d25"
+  },
+  {
+    "name": "pages-faqs",
+    "path": "/pages/faqs",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\faqs.vue",
+    "chunkName": "pages/pages/faqs",
+    "_name": "_2b0ce352"
+  },
+  {
+    "name": "pages-login",
+    "path": "/pages/login",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\login.vue",
+    "chunkName": "pages/pages/login",
+    "_name": "_6df9af9f"
+  },
+  {
+    "name": "pages-order",
+    "path": "/pages/order",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\order.vue",
+    "chunkName": "pages/pages/order",
+    "_name": "_85c665f8"
+  },
+  {
+    "name": "pages-wishlist",
+    "path": "/pages/wishlist",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\pages\\\\wishlist.vue",
+    "chunkName": "pages/pages/wishlist",
+    "_name": "_05b876ff"
+  },
+  {
+    "name": "shop-banner-sidebar",
+    "path": "/shop/banner-sidebar",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\shop\\\\banner-sidebar.vue",
+    "chunkName": "pages/shop/banner-sidebar",
+    "_name": "_31da842b"
+  },
+  {
+    "name": "shop-boxed-banner",
+    "path": "/shop/boxed-banner",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\shop\\\\boxed-banner.vue",
+    "chunkName": "pages/shop/boxed-banner",
+    "_name": "_f4261dc2"
+  },
+  {
+    "name": "shop-horizontal-filter",
+    "path": "/shop/horizontal-filter",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\shop\\\\horizontal-filter.vue",
+    "chunkName": "pages/shop/horizontal-filter",
+    "_name": "_1b27df01"
+  },
+  {
+    "name": "shop-infinite-scroll",
+    "path": "/shop/infinite-scroll",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\shop\\\\infinite-scroll.vue",
+    "chunkName": "pages/shop/infinite-scroll",
+    "_name": "_47ca1de6"
+  },
+  {
+    "name": "shop-navigation-filter",
+    "path": "/shop/navigation-filter",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\shop\\\\navigation-filter.vue",
+    "chunkName": "pages/shop/navigation-filter",
+    "_name": "_21224b11"
+  },
+  {
+    "name": "shop-off-canvas",
+    "path": "/shop/off-canvas",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\shop\\\\off-canvas.vue",
+    "chunkName": "pages/shop/off-canvas",
+    "_name": "_387bbf34"
+  },
+  {
+    "name": "shop-right-sidebar",
+    "path": "/shop/right-sidebar",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\shop\\\\right-sidebar.vue",
+    "chunkName": "pages/shop/right-sidebar",
+    "_name": "_2a2eed2a"
+  },
+  {
+    "name": "blog-grid-sidebar",
+    "path": "/blog/grid/sidebar",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\blog\\\\grid\\\\sidebar.vue",
+    "chunkName": "pages/blog/grid/sidebar",
+    "_name": "_b927232c"
+  },
+  {
+    "name": "blog-mask-grid",
+    "path": "/blog/mask/grid",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\blog\\\\mask\\\\grid.vue",
+    "chunkName": "pages/blog/mask/grid",
+    "_name": "_8ee8d764"
+  },
+  {
+    "name": "blog-mask-masonry",
+    "path": "/blog/mask/masonry",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\blog\\\\mask\\\\masonry.vue",
+    "chunkName": "pages/blog/mask/masonry",
+    "_name": "_73b0e6ed"
+  },
+  {
+    "name": "blog-masonry-sidebar",
+    "path": "/blog/masonry/sidebar",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\blog\\\\masonry\\\\sidebar.vue",
+    "chunkName": "pages/blog/masonry/sidebar",
+    "_name": "_1b688953"
+  },
+  {
+    "name": "blog-grid-column",
+    "path": "/blog/grid/:column?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\blog\\\\grid\\\\_column.vue",
+    "chunkName": "pages/blog/grid/_column",
+    "_name": "_7f46ff03"
+  },
+  {
+    "name": "blog-masonry-column",
+    "path": "/blog/masonry/:column?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\blog\\\\masonry\\\\_column.vue",
+    "chunkName": "pages/blog/masonry/_column",
+    "_name": "_1179cc28"
+  },
+  {
+    "name": "blog-single-slug",
+    "path": "/blog/single/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\blog\\\\single\\\\_slug.vue",
+    "chunkName": "pages/blog/single/_slug",
+    "_name": "_44cb67d6"
+  },
+  {
+    "name": "product-default-slug",
+    "path": "/product/default/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\default\\\\_slug.vue",
+    "chunkName": "pages/product/default/_slug",
+    "_name": "_0ebcde8e"
+  },
+  {
+    "name": "product-full-width-slug",
+    "path": "/product/full-width/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\full-width\\\\_slug.vue",
+    "chunkName": "pages/product/full-width/_slug",
+    "_name": "_02c1f2ad"
+  },
+  {
+    "name": "product-gallery-slug",
+    "path": "/product/gallery/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\gallery\\\\_slug.vue",
+    "chunkName": "pages/product/gallery/_slug",
+    "_name": "_415cce46"
+  },
+  {
+    "name": "product-grid-slug",
+    "path": "/product/grid/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\grid\\\\_slug.vue",
+    "chunkName": "pages/product/grid/_slug",
+    "_name": "_ae6b8822"
+  },
+  {
+    "name": "product-horizontal-slug",
+    "path": "/product/horizontal/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\horizontal\\\\_slug.vue",
+    "chunkName": "pages/product/horizontal/_slug",
+    "_name": "_99a5cbde"
+  },
+  {
+    "name": "product-left-sidebar-slug",
+    "path": "/product/left-sidebar/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\left-sidebar\\\\_slug.vue",
+    "chunkName": "pages/product/left-sidebar/_slug",
+    "_name": "_6df54ac2"
+  },
+  {
+    "name": "product-masonry-slug",
+    "path": "/product/masonry/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\masonry\\\\_slug.vue",
+    "chunkName": "pages/product/masonry/_slug",
+    "_name": "_b7cf67ec"
+  },
+  {
+    "name": "product-right-sidebar-slug",
+    "path": "/product/right-sidebar/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\right-sidebar\\\\_slug.vue",
+    "chunkName": "pages/product/right-sidebar/_slug",
+    "_name": "_1e504c24"
+  },
+  {
+    "name": "product-sticky-both-slug",
+    "path": "/product/sticky-both/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\sticky-both\\\\_slug.vue",
+    "chunkName": "pages/product/sticky-both/_slug",
+    "_name": "_c91d7a2c"
+  },
+  {
+    "name": "product-sticky-cart-slug",
+    "path": "/product/sticky-cart/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\sticky-cart\\\\_slug.vue",
+    "chunkName": "pages/product/sticky-cart/_slug",
+    "_name": "_1a7959eb"
+  },
+  {
+    "name": "product-sticky-info-slug",
+    "path": "/product/sticky-info/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\sticky-info\\\\_slug.vue",
+    "chunkName": "pages/product/sticky-info/_slug",
+    "_name": "_59448b9d"
+  },
+  {
+    "name": "product-tab-inside-slug",
+    "path": "/product/tab-inside/:slug?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\product\\\\tab-inside\\\\_slug.vue",
+    "chunkName": "pages/product/tab-inside/_slug",
+    "_name": "_183d2301"
+  },
+  {
+    "name": "shop-grid-cols",
+    "path": "/shop/grid/:cols?",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\shop\\\\grid\\\\_cols.vue",
+    "chunkName": "pages/shop/grid/_cols",
+    "_name": "_6da7ac8c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\code\\\\data\\\\vue\\\\riode-vue\\\\vercel\\\\nuxtjs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3024a4c8"
+  }
+]
