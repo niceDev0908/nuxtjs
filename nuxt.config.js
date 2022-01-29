@@ -1,4 +1,6 @@
 export default {
+    serverMiddleware: process.env.NODE_ENV === 'production' ? [] : ['~/api/hello.js'],
+
     head: {
         titleTemplate: 'Riode - Ultimate eCommerce Template',
         title: 'Riode - Ultimate eCommerce Template',
