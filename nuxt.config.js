@@ -101,7 +101,7 @@ export default {
         'cookie-universal-nuxt'
     ],
 
-    buildDir: 'dist',
+    buildDir: 'public',
 
     modules: ['@nuxtjs/axios'],
 
@@ -117,7 +117,7 @@ export default {
     },
 
     generate: {
-        dir: "dist",
+        dir: "public",
         subFolders: false,
         fallback: '404.html'
     },
