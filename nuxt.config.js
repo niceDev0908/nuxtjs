@@ -111,7 +111,7 @@ export default {
         extend(config, { loaders }) {
             loaders.scss.additionalData = '@use "sass:math";';
         },
-        publicPath: "https://nuxtjs-liart-kappa.vercel.app/"
+        publicPath: "https://nuxtjs-oi1ruygt1-nicedev0908.vercel.app/"
     },
 
     generate: {
