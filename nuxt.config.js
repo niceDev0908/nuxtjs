@@ -101,23 +101,25 @@ export default {
         'cookie-universal-nuxt'
     ],
 
+    buildDir: 'public',
+
     modules: ['@nuxtjs/axios'],
 
     router: {
-        base: '/vue/riode/demo-1/'
+        base: '/vue/demo-1'
     },
 
     build: {
-        publicPath: "http://192.168.1.25/vue/riode/demo-1/",
         extend(config, { loaders }) {
             loaders.scss.additionalData = '@use "sass:math";';
         }
     },
 
-    generate: {
-        subFolders: false,
-        fallback: '404.html'
-    },
+    // generate: {
+    //     dir: "public",
+    //     subFolders: false,
+    //     fallback: '404.html'
+    // },
 
     loading: false,
     loadingIndicator: false,
